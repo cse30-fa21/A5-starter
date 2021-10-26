@@ -42,7 +42,6 @@ int readFontBuffer(const char *fontFile)
         //     overwrite the current one
         //   - when seeing a FONTDELIM char followed by a newline, you should:
         //       - store the *next* char's cBanner's location into cBannerLookup
-        //       - reset maxWidth for the next char
     }
 
     // The file is closed after use

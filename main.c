@@ -19,7 +19,7 @@ void printUsage()
 /*
  * Executes the code, accepting a font file, populating the fontBuffer array
  * with the corresponding cBanners, and then printing the given string using the
- * cBanners. A -h flag should print the usage message. A -w flag followed by an int
+ * cBanners. A -u flag should print the usage message. A -w flag followed by an int
  * should change the width of the displayBuffer. A -h followed by an int should
  * change the height of the displayBuffer. A -f flag followed by a char
  * should replace the background symbol of the displayBuffer accordingly.
