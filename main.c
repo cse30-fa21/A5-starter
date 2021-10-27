@@ -2,6 +2,7 @@
  * CSE30 FA21 HW5
  * CSE30 username: cs30fa21cXX (TODO: Fill in)
  */
+#include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
